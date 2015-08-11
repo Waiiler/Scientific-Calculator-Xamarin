@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Ejemplo_Calculadora\Ejemplo_Calculadora.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.CB5A25HS5R" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ejemplo_Calculadora\MainActivity.cs">
+    <Files>
+      <File FileName="Ejemplo_Calculadora\MainActivity.cs" Line="25" Column="65" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Ejemplo__Calculadora MonoForAntroid.PreferredDevice="3.7in WVGA (Nexus One)" AndroidDeviceId-Debug="015475D801004017" AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>
